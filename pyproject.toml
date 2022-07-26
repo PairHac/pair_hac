@@ -7,6 +7,9 @@ authors = ["reo03ARMS <reo03masu@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Django = "3.0"
+channels = "^3.0.5"
+redis = "^4.3.4"
+channels-redis = "^3.4.1"
 
 [tool.poetry.dev-dependencies]
 
